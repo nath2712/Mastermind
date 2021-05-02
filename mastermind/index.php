@@ -6,7 +6,7 @@
 
 <meta charset="UTF-8">
 
-<script src="script.js"></script>
+<script src = "scripts.js" type ="text/javascript"> </script>
 </head>
 
 	<body>
@@ -36,18 +36,9 @@
 			</tr>
 		
 		</table>
-
-
-		<select name ="Premier numéro">
-
-			<option value="1"> 1 </option>
-
-			<option value="2"> 2 </option>
-			<option value="3"> 3 </option>
-
-			<option value="4"> 4 </option>
-		</select> 
-		<select name ="Second numéro">
+		
+		
+		<select name ="Premier numéro" id ="1">
 
 			<option value="1"> 1 </option>
 
@@ -56,7 +47,7 @@
 
 			<option value="4"> 4 </option>
 		</select> 
-		<select name ="Troisiéme numéro">
+		<select name ="Second numéro"  id ="2">
 
 			<option value="1"> 1 </option>
 
@@ -65,7 +56,16 @@
 
 			<option value="4"> 4 </option>
 		</select> 
-		<select name ="Quatriéme numéro">
+		<select name ="Troisiéme numéro"  id ="3">
+
+			<option value="1"> 1 </option>
+
+			<option value="2"> 2 </option>
+			<option value="3"> 3 </option>
+
+			<option value="4"> 4 </option>
+		</select> 
+		<select name ="Quatriéme numéro"  id ="4">
 
 			<option value="1"> 1 </option>
 
