@@ -18,7 +18,7 @@
 
 		<table>
 			<legend> historique des proposition </legend>
-			<tr> 
+			<tr id = "101"> 
 				
 					<td > 0 </td>
 					<td > 0 </td>
@@ -26,7 +26,7 @@
 					<td > 0 </td>
 				
 			</tr>
-			<tr> 
+			<tr id = "102"> 
 				
 					<td > 0 </td>
 					<td > 0 </td>
@@ -34,7 +34,70 @@
 					<td > 0 </td>
 				
 			</tr>
-		
+			<tr id = "103"> 
+				
+					<td > 0 </td>
+					<td > 0 </td>
+					<td > 0 </td>
+					<td > 0 </td>
+				
+			</tr>
+			<tr id = "104"> 
+				
+					<td > 0 </td>
+					<td > 0 </td>
+					<td > 0 </td>
+					<td > 0 </td>
+				
+			</tr>
+			<tr id = "105"> 
+				
+					<td > 0 </td>
+					<td > 0 </td>
+					<td > 0 </td>
+					<td > 0 </td>
+				
+			</tr>
+			<tr id = "106"> 
+				
+					<td > 0 </td>
+					<td > 0 </td>
+					<td > 0 </td>
+					<td > 0 </td>
+				
+			</tr>
+			<tr id = "107"> 
+				
+					<td > 0 </td>
+					<td > 0 </td>
+					<td > 0 </td>
+					<td > 0 </td>
+				
+			</tr>
+			<tr id = "108"> 
+				
+					<td > 0 </td>
+					<td > 0 </td>
+					<td > 0 </td>
+					<td > 0 </td>
+				
+			</tr>
+			<tr id = "109"> 
+				
+					<td > 0 </td>
+					<td > 0 </td>
+					<td > 0 </td>
+					<td > 0 </td>
+				
+			</tr>
+			<tr id = "110"> 
+				
+					<td > 0 </td>
+					<td > 0 </td>
+					<td > 0 </td>
+					<td > 0 </td>
+				
+			</tr>
 		</table>
 		
 		
