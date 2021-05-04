@@ -7,6 +7,7 @@
 <meta charset="UTF-8">
 
 <script src = "scripts.js" type ="text/javascript"> </script>
+<script src = "jquery.js" type ="text/javascript"> </script>
 </head>
 
 	<body>
@@ -109,6 +110,10 @@
 			<option value="3"> 3 </option>
 
 			<option value="4"> 4 </option>
+			<option value="5"> 5 </option>
+
+			<option value="6"> 6 </option>
+			
 		</select> 
 		<select name ="Second numéro"  id ="2">
 
@@ -118,6 +123,10 @@
 			<option value="3"> 3 </option>
 
 			<option value="4"> 4 </option>
+			<option value="5"> 5 </option>
+
+			<option value="6"> 6 </option>
+			
 		</select> 
 		<select name ="Troisiéme numéro"  id ="3">
 
@@ -127,6 +136,10 @@
 			<option value="3"> 3 </option>
 
 			<option value="4"> 4 </option>
+			<option value="5"> 5 </option>
+
+			<option value="6"> 6 </option>
+			
 		</select> 
 		<select name ="Quatriéme numéro"  id ="4">
 
@@ -136,6 +149,10 @@
 			<option value="3"> 3 </option>
 
 			<option value="4"> 4 </option>
+			<option value="5"> 5 </option>
+
+			<option value="6"> 6 </option>
+			
 		</select> 
 		
 		<button id ="button" > Tester la combinaison </button>
@@ -146,6 +163,8 @@
 			<li>2</li>
 			<li>3</li>
 			<li>4</li>
+			<li>5</li>
+			<li>6</li>
 
 		</ul>
 	</body>
